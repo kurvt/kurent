@@ -11,6 +11,7 @@ payload:
   
   # > 游戏王 Games
   - DOMAIN-KEYWORD,konami
+  - DOMAIN-SUFFIX,iotcplatform.com
   
   # > Riot Games
   - DOMAIN-SUFFIX,riotcdn.net
