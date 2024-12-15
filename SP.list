@@ -41,6 +41,6 @@ IP-CIDR,155.133.230.98/24,no-resolve
 IP-CIDR,172.255.8.172/24,no-resolve
 IP-CIDR,173.237.26.52/24,no-resolve
 IP-CIDR,155.133.244.52/24,no-resolve
-
-
+# > POE2 Games
+DOMAIN-SUFFIX,pathofexile.com
 
