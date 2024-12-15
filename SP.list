@@ -7,6 +7,7 @@
 # TOTAL:/
 # > 游戏王 Games
 DOMAIN-SUFFIX,konami.net
+DOMAIN-SUFFIX,pathofexile.com
 IP-CIDR,35.192.0.0/12,no-resolve
 IP-CIDR,45.121.184.100/24,no-resolve
 IP-CIDR,4.1.82.185/24,no-resolve
@@ -41,6 +42,5 @@ IP-CIDR,155.133.230.98/24,no-resolve
 IP-CIDR,172.255.8.172/24,no-resolve
 IP-CIDR,173.237.26.52/24,no-resolve
 IP-CIDR,155.133.244.52/24,no-resolve
-DOMAIN-SUFFIX,pathofexile.com
 IP-CIDR,58.182.154.215/24,no-resolve
 
