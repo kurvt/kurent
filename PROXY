@@ -1,6 +1,7 @@
 payload:
   # > 游戏王 Games
   - DOMAIN-KEYWORD,konami
+  - IP-CIDR,45.121.184.100/8
 
   
 
