@@ -6,6 +6,34 @@
 # IP-CIDR: /
 # TOTAL:/
 # > 游戏王 Games
-DOMAIN-KEYWORD,konami
+DOMAIN-SUFFIX,konami.net
+IP-CIDR,35.192.0.0/12,no-resolve
+IP-CIDR,45.121.184.100/24,no-resolve
+IP-CIDR,4.1.82.185/24,no-resolve
+IP-CIDR,103.28.54.102/24,no-resolve
+IP-CIDR,155.133.238.194/24,no-resolve
+IP-CIDR,103.10.125.147/24,no-resolve
+IP-CIDR,162.254.193.71/24,no-resolve
+IP-CIDR,155.133.227.41/24,no-resolve
+IP-CIDR,155.133.226.79/24,no-resolve
+IP-CIDR,103.28.54.168/24,no-resolve
+IP-CIDR,185.25.183.163/24,no-resolve
+IP-CIDR,155.133.252.84/24,no-resolve
+IP-CIDR,103.10.124.116/24,no-resolve
+IP-CIDR,162.254.195.73/24,no-resolve
+IP-CIDR,146.66.152.36/24,no-resolve
+IP-CIDR,155.133.224.20/24,no-resolve
+IP-CIDR,169.150.222.55/24,no-resolve
+IP-CIDR,155.133.225.19/24,no-resolve
+IP-CIDR,205.196.6.212/24,no-resolve
+IP-CIDR,155.133.249.179/24,no-resolve
+IP-CIDR,162.254.192.67/24,no-resolve
+IP-CIDR,162.254.199.180/24,no-resolve
+IP-CIDR,188.42.106.164/24,no-resolve
+IP-CIDR,146.66.155.69/24,no-resolve
+IP-CIDR,155.133.246.34/24,no-resolve
+IP-CIDR,162.254.196.82/24,no-resolve
+IP-CIDR,185.25.182.18/24,no-resolve
+IP-CIDR,103.10.124.116/24,no-resolve
 
 
