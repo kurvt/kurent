@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,konami.net
   - DOMAIN-SUFFIX,pathofexile.com
   - DOMAIN-SUFFIX,pathofexile2.com
+  - DOMAIN-SUFFIX,poe2db.tw
   - IP-CIDR,43.159.12.11/16,no-resolve
   - IP-CIDR,43.159.0.56/16,no-resolve
   
