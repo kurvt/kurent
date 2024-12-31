@@ -9,6 +9,7 @@
 DOMAIN-SUFFIX,konami.net
 DOMAIN-SUFFIX,pathofexile.com
 DOMAIN-SUFFIX,pathofexile2.com
+DOMAIN-SUFFIX,poe2db.tw
 IP-CIDR,35.192.0.0/12,no-resolve
 IP-CIDR,45.121.184.100/24,no-resolve
 IP-CIDR,4.1.82.185/24,no-resolve
@@ -45,3 +46,7 @@ IP-CIDR,173.237.26.52/24,no-resolve
 IP-CIDR,155.133.244.52/24,no-resolve
 IP-CIDR,58.182.154.215/24,no-resolve
 IP-CIDR,43.159.12.11/24,no-resolve
+IP-CIDR,43.159.12.11/16,no-resolve
+IP-CIDR,43.159.0.56/16,no-resolve
+IP-CIDR,103.62.49.203/16,no-resolve
+IP-CIDR,43.133.181.73/16,no-resolve
