@@ -64,6 +64,7 @@
     ],
     "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
     "IsHide":  "False",
+    "IsTestingExclusive":  "False",
     "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/master/icon2.png",
     "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.7.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.7.0/latest.zip"
