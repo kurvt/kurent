@@ -24,9 +24,9 @@
     },
    {
     "Author":  "veyn",
-    "Name":  "Boss Mod",
-    "InternalName":  "BossMod",
-    "AssemblyVersion": "0.0.0.292",
+    "Name":  "vnavmesh",
+    "InternalName":  "vnavmesh",
+    "AssemblyVersion": "0.0.7.0",
     "Description":  "20250223-请支持逆光喵，谢谢喵-画得更全喵",
     "ApplicableVersion":  "any",
     "RepoUrl":  "https://github.com/44451516/ffxiv_bossmod",
@@ -43,31 +43,8 @@
     "IsHide":  "False",
     "IsTestingExclusive":  "False",
     "LastUpdate":  "1658532627",
-    "DownloadLinkInstall":  "https://github.com/44451516/ffxiv_bossmod/raw/CN/release/BossMod/latest.zip",
-    "DownloadLinkTesting":  "https://github.com/44451516/ffxiv_bossmod/raw/CN/release/BossMod/latest.zip",
-    "DownloadLinkUpdate":  "https://github.com/44451516/ffxiv_bossmod/raw/CN/release/BossMod/latest.zip"
-  },
-  {
-    "Name": "vnavmesh",
-    "InternalName": "vnavmesh",
-    "AssemblyVersion": "0.0.7.0",
-    "Author": "veyn, AtmoOmen",
-    "Punchline": "行遍千里",
-    "Description": "不仅会自动寻路, 还能自动避障",
-    "ApplicableVersion": "any",
-    "AcceptsFeedback": true,
-    "DalamudApiLevel": 11,
-    "ImageUrls":  [
-      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
-      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
-      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
-    ],
-    "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-    "IsHide":  "False",
-    "IsTestingExclusive":  "False",
-    "LastUpdate":  "1658532629",
-    "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/master/icon2.png",
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.7.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.7.0/latest.zip"
+    "DownloadLinkInstall":  "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.7.0/latest.zip",
+    "DownloadLinkTesting":  "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.7.0/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.7.0/latest.zip"
   }
 ]
