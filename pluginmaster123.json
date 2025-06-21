@@ -11,7 +11,7 @@
     "DalamudApiLevel": 11,
     "RepoUrl": "https://github.com/AtmoOmen/Hyperborea",
     "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/Hyperborea/main/icon.png",
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/Hyperborea/releases/download/1.0.0.17/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/Hyperborea/releases/download/1.0.0.17/latest.zip"
+    "DownloadLinkInstall": "https://github.com/kurvt/kurent/blob/master/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kurvt/kurent/blob/master/latest.zip"
   },
 ]
